@@ -6,6 +6,7 @@
 
   (title_block
     (title "Electronics Multitool - I2C_SPI_to_USB")
+    (rev "100")
   )
 
   (lib_symbols
@@ -1495,6 +1496,10 @@
   (no_connect (at 128.27 154.94) (uuid c3553713-75fd-4317-b555-9d72af9cc01c))
   (no_connect (at 128.27 149.86) (uuid c3553713-75fd-4317-b555-9d72af9cc01d))
   (no_connect (at 128.27 152.4) (uuid c3553713-75fd-4317-b555-9d72af9cc01e))
+  (no_connect (at 39.37 151.13) (uuid ec347c46-249b-4f88-8d72-7e248ddc246f))
+  (no_connect (at 39.37 146.05) (uuid ec347c46-249b-4f88-8d72-7e248ddc2470))
+  (no_connect (at 40.64 63.5) (uuid ec347c46-249b-4f88-8d72-7e248ddc2471))
+  (no_connect (at 40.64 58.42) (uuid ec347c46-249b-4f88-8d72-7e248ddc2472))
 
   (wire (pts (xy 85.09 144.78) (xy 85.09 146.05))
     (stroke (width 0) (type default) (color 0 0 0 0))

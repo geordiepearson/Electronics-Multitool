@@ -328,6 +328,10 @@
     [
       "f8cf8b7b-9f16-469d-863e-c99f851ea94d",
       "Serial_to_USB"
+    ],
+    [
+      "bc68ff38-edc2-4409-827b-d2a7c46738a8",
+      "USB_Ports"
     ]
   ],
   "text_variables": {}

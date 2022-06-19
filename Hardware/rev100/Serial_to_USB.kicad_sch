@@ -6,6 +6,7 @@
 
   (title_block
     (title "Electronics Multitool - Serial to USB")
+    (rev "100")
   )
 
   (lib_symbols
@@ -816,6 +817,8 @@
   )
 
   (no_connect (at 213.36 86.36) (uuid 001a51b9-9b67-468e-a88f-039c86b6084d))
+  (no_connect (at 72.39 102.87) (uuid 8d6dc684-de53-4dfd-a72c-d189dd54d844))
+  (no_connect (at 72.39 107.95) (uuid 8d6dc684-de53-4dfd-a72c-d189dd54d845))
   (no_connect (at 149.86 105.41) (uuid d4db511b-b603-4e50-93af-b73526d917c5))
   (no_connect (at 149.86 107.95) (uuid d4db511b-b603-4e50-93af-b73526d917c6))
   (no_connect (at 149.86 110.49) (uuid d4db511b-b603-4e50-93af-b73526d917c7))
@@ -863,7 +866,7 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 34d7b6cf-70b1-40c8-a280-7685bec5218e)
   )
-  (wire (pts (xy 110.49 102.87) (xy 118.11 102.87))
+  (wire (pts (xy 107.95 102.87) (xy 118.11 102.87))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 3709f359-a3d1-42c1-900b-9cd067cd1bcd)
   )
@@ -1081,7 +1084,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 636e1597-609e-4f8e-a879-7ed76f58db79)
   )
-  (label "3V3" (at 105.41 83.82 0)
+  (label "3V3_Serial" (at 102.87 83.82 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 7d618405-8b28-48d8-a793-5f2aedcef582)
   )
@@ -1093,7 +1096,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid b7e2ae7e-dcf3-4644-95ec-20d972244a7d)
   )
-  (label "3V3" (at 111.76 102.87 0)
+  (label "3V3_Serial" (at 107.95 102.87 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid fe011413-63e1-45d0-8222-112ac6aaddd3)
   )
